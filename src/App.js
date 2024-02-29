@@ -76,7 +76,6 @@ function App() {
                 </MayBeNavBar>
                 <ModalComponent />
                 <WishList />
-                <h1>Welcome</h1>
                 <Routes>
                   <Route exact path='/login' Component={Loginpg} />
                   <Route exact path='/profile' Component={Profile} />
