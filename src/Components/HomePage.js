@@ -174,10 +174,10 @@ function HomePage() {
             product_id: 1,
             brand_name: "Tommy hilfiger",
             brand_img: [
-                "http://localhost:3000/mensTshirts/tommy1439.png",
-                "http://localhost:3000/mensTshirts/tommy14391.png",
-                "http://localhost:3000/mensTshirts/tommy14392.png",
-                "http://localhost:3000/mensTshirts/tommy14393.png"
+                "./mensTshirts/tommy1439.png",
+                "./mensTshirts/tommy14391.png",
+                "./mensTshirts/tommy14392.png",
+                "./mensTshirts/tommy14393.png"
             ],
             brand_description: "Men Brand Logo Printed Pure Cotton T-shirt",
             brand_price: 1439,
@@ -190,10 +190,10 @@ function HomePage() {
             product_id: 2,
             brand_name: "Puma",
             brand_img: [
-                "http://localhost:3000/mensTshirts/puma1259.png",
-                "http://localhost:3000/mensTshirts/puma12591.png",
-                "http://localhost:3000/mensTshirts/puma12592.png",
-                "http://localhost:3000/mensTshirts/puma12593.png"
+                "./mensTshirts/puma1259.png",
+                "./mensTshirts/puma12591.png",
+                "./mensTshirts/puma12592.png",
+                "./mensTshirts/puma12593.png"
             ],
             brand_description: "Brand Logo Printed Relaxed Fit T-Shirt",
             brand_price: 1259,
@@ -205,10 +205,10 @@ function HomePage() {
             product_id: 3,
             brand_name: "Levis",
             brand_img: [
-                "http://localhost:3000/mensTshirts/levis1199.png",
-                "http://localhost:3000/mensTshirts/levis11991.png",
-                "http://localhost:3000/mensTshirts/levis11992.png",
-                "http://localhost:3000/mensTshirts/levis11993.png"
+                "./mensTshirts/levis1199.png",
+                "./mensTshirts/levis11991.png",
+                "./mensTshirts/levis11992.png",
+                "./mensTshirts/levis11993.png"
             ],
             brand_description: "Brand Logo Printed Pure Cotton T-shirt",
             brand_price: 1199,
@@ -233,10 +233,10 @@ function HomePage() {
             product_id: 5,
             brand_name: "Puma",
             brand_img: [
-                "http://localhost:3000/mensTshirts/puma4999.png",
-                "http://localhost:3000/mensTshirts/puma49991.png",
-                "http://localhost:3000/mensTshirts/puma49992.png",
-                "http://localhost:3000/mensTshirts/puma49993.png"
+                "./mensTshirts/puma4999.png",
+                "./mensTshirts/puma49991.png",
+                "./mensTshirts/puma49992.png",
+                "./mensTshirts/puma49993.png"
             ],
             brand_description: "MMQ T7 Unisex Self-Striped Polo Collar Pure Cotton Outdoor T-shirt",
             brand_price: 4999,
@@ -279,10 +279,10 @@ function HomePage() {
             product_id: 8,
             brand_name: "Tommy hilfiger",
             brand_img: [
-                "http://localhost:3000/mensTshirts/tommy1799.png",
-                "http://localhost:3000/mensTshirts/tommy17991.png",
-                "http://localhost:3000/mensTshirts/tommy17992.png",
-                "http://localhost:3000/mensTshirts/tommy17993.png"
+                "./mensTshirts/tommy1799.png",
+                "./mensTshirts/tommy17991.png",
+                "./mensTshirts/tommy17992.png",
+                "./mensTshirts/tommy17993.png"
             ],
             brand_description: "HILFIGER STRIPE T-SHIRT",
             brand_price: 1799,
@@ -295,10 +295,10 @@ function HomePage() {
             product_id: 9,
             brand_name: "Tommy hilfiger",
             brand_img: [
-                "http://localhost:3000/mensTshirts/tommy1600.png",
-                "http://localhost:3000/mensTshirts/tommy16001.png",
-                "http://localhost:3000/mensTshirts/tommy16002.png",
-                "http://localhost:3000/mensTshirts/tommy16003.png"
+                "./mensTshirts/tommy1600.png",
+                "./mensTshirts/tommy16001.png",
+                "./mensTshirts/tommy16002.png",
+                "./mensTshirts/tommy16003.png"
             ],
             brand_description: "Men Yellow Brand Logo Striped T-shirt",
             brand_price: 1600,
@@ -310,10 +310,10 @@ function HomePage() {
             product_id: 10,
             brand_name: "Puma",
             brand_img: [
-                "http://localhost:3000/mensTshirts/puma1349.png",
-                "http://localhost:3000/mensTshirts/puma13491.png",
-                "http://localhost:3000/mensTshirts/puma13492.png",
-                "http://localhost:3000/mensTshirts/puma13493.png"
+                "./mensTshirts/puma1349.png",
+                "./mensTshirts/puma13491.png",
+                "./mensTshirts/puma13492.png",
+                "./mensTshirts/puma13493.png"
             ],
             brand_description: "Power Colourblocked Drop-Shoulder Sleeves Relaxed Fit Pure Cotton T-shirt",
             brand_price: 1349,
@@ -335,10 +335,10 @@ function HomePage() {
                     product_id: 1,
                     brand_name: "Tommy hilfiger",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/tommy1439.png",
-                        "http://localhost:3000/mensTshirts/tommy14391.png",
-                        "http://localhost:3000/mensTshirts/tommy14392.png",
-                        "http://localhost:3000/mensTshirts/tommy14393.png"
+                        "./mensTshirts/tommy1439.png",
+                        "./mensTshirts/tommy14391.png",
+                        "./mensTshirts/tommy14392.png",
+                        "./mensTshirts/tommy14393.png"
                     ],
                     brand_description: "Men Brand Logo Printed Pure Cotton T-shirt",
                     brand_price: 1439,
@@ -351,10 +351,10 @@ function HomePage() {
                     product_id: 2,
                     brand_name: "Puma",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/puma1259.png",
-                        "http://localhost:3000/mensTshirts/puma12591.png",
-                        "http://localhost:3000/mensTshirts/puma12592.png",
-                        "http://localhost:3000/mensTshirts/puma12593.png"
+                        "./mensTshirts/puma1259.png",
+                        "./mensTshirts/puma12591.png",
+                        "./mensTshirts/puma12592.png",
+                        "./mensTshirts/puma12593.png"
                     ],
                     brand_description: "Brand Logo Printed Relaxed Fit T-Shirt",
                     brand_price: 1259,
@@ -366,10 +366,10 @@ function HomePage() {
                     product_id: 3,
                     brand_name: "Levis",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/levis1199.png",
-                        "http://localhost:3000/mensTshirts/levis11991.png",
-                        "http://localhost:3000/mensTshirts/levis11992.png",
-                        "http://localhost:3000/mensTshirts/levis11993.png"
+                        "./mensTshirts/levis1199.png",
+                        "./mensTshirts/levis11991.png",
+                        "./mensTshirts/levis11992.png",
+                        "./mensTshirts/levis11993.png"
                     ],
                     brand_description: "Brand Logo Printed Pure Cotton T-shirt",
                     brand_price: 1199,
@@ -382,7 +382,7 @@ function HomePage() {
                     product_id: 4,
                     brand_name: "Levis",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/tommy18991.png",
+                        "./mensTshirts/tommy18991.png",
                     ],
                     brand_description: "Brand Logo Printed Pure Cotton T-shirt",
                     brand_price: 1199,
@@ -394,10 +394,10 @@ function HomePage() {
                     product_id: 5,
                     brand_name: "Puma",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/puma4999.png",
-                        "http://localhost:3000/mensTshirts/puma49991.png",
-                        "http://localhost:3000/mensTshirts/puma49992.png",
-                        "http://localhost:3000/mensTshirts/puma49993.png"
+                        "./mensTshirts/puma4999.png",
+                        "./mensTshirts/puma49991.png",
+                        "./mensTshirts/puma49992.png",
+                        "./mensTshirts/puma49993.png"
                     ],
                     brand_description: "MMQ T7 Unisex Self-Striped Polo Collar Pure Cotton Outdoor T-shirt",
                     brand_price: 4999,
@@ -410,7 +410,7 @@ function HomePage() {
                     product_id: 6,
                     brand_name: "Jack & Jones",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/tommy25991.png",
+                        "./mensTshirts/tommy25991.png",
                     ],
                     brand_description: "Men Printed Cotton Slim Fit T-shirt",
                     brand_price: 714,
@@ -422,7 +422,7 @@ function HomePage() {
                     product_id: 7,
                     brand_name: "Tommy hilfiger",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/tommy11991.png",
+                        "./mensTshirts/tommy11991.png",
                     ],
                     brand_description: "Pure Cotton Colourblocked Polo Collar Casual T-shirt",
                     brand_price: 1199,
@@ -434,10 +434,10 @@ function HomePage() {
                     product_id: 8,
                     brand_name: "Tommy hilfiger",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/tommy1799.png",
-                        "http://localhost:3000/mensTshirts/tommy17991.png",
-                        "http://localhost:3000/mensTshirts/tommy17992.png",
-                        "http://localhost:3000/mensTshirts/tommy17993.png"
+                        "./mensTshirts/tommy1799.png",
+                        "./mensTshirts/tommy17991.png",
+                        "./mensTshirts/tommy17992.png",
+                        "./mensTshirts/tommy17993.png"
                     ],
                     brand_description: "HILFIGER STRIPE T-SHIRT",
                     brand_price: 1799,
@@ -451,10 +451,10 @@ function HomePage() {
                     product_id: 9,
                     brand_name: "Tommy hilfiger",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/tommy1600.png",
-                        "http://localhost:3000/mensTshirts/tommy16001.png",
-                        "http://localhost:3000/mensTshirts/tommy16002.png",
-                        "http://localhost:3000/mensTshirts/tommy16003.png"
+                        "./mensTshirts/tommy1600.png",
+                        "./mensTshirts/tommy16001.png",
+                        "./mensTshirts/tommy16002.png",
+                        "./mensTshirts/tommy16003.png"
                     ],
                     brand_description: "Men Yellow Brand Logo Striped T-shirt",
                     brand_price: 1600,
@@ -466,10 +466,10 @@ function HomePage() {
                     product_id: 10,
                     brand_name: "Puma",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/puma1349.png",
-                        "http://localhost:3000/mensTshirts/puma13491.png",
-                        "http://localhost:3000/mensTshirts/puma13492.png",
-                        "http://localhost:3000/mensTshirts/puma13493.png"
+                        "./mensTshirts/puma1349.png",
+                        "./mensTshirts/puma13491.png",
+                        "./mensTshirts/puma13492.png",
+                        "./mensTshirts/puma13493.png"
                     ],
                     brand_description: "Power Colourblocked Drop-Shoulder Sleeves Relaxed Fit Pure Cotton T-shirt",
                     brand_price: 1349,
@@ -481,7 +481,7 @@ function HomePage() {
                     product_id: 10,
                     brand_name: "Levis",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/levis20791.png",
+                        "./mensTshirts/levis20791.png",
                     ],
                     brand_description: "Power Colourblocked Drop-Shoulder Sleeves Relaxed Fit Pure Cotton T-shirt",
                     brand_price: 2079,
@@ -493,7 +493,7 @@ function HomePage() {
                     product_id: 10,
                     brand_name: "US Polo",
                     brand_img: [
-                        "http://localhost:3000/mensTshirts/polo14391.png",
+                        "./mensTshirts/polo14391.png",
                     ],
                     brand_description: "Power Colourblocked Drop-Shoulder Sleeves Relaxed Fit Pure Cotton T-shirt",
                     brand_price: 1439,
@@ -580,10 +580,10 @@ function HomePage() {
             product_id: 7,
             brand_name: "Puma",
             brand_img: [
-                "http://localhost:3000/mensTshirts/puma1259.png",
-                "http://localhost:3000/mensTshirts/puma12591.png",
-                "http://localhost:3000/mensTshirts/puma12592.png",
-                "http://localhost:3000/mensTshirts/puma12593.png"
+                "./mensTshirts/puma1259.png",
+                "./mensTshirts/puma12591.png",
+                "./mensTshirts/puma12592.png",
+                "./mensTshirts/puma12593.png"
             ],
             brand_description: "Brand Logo Printed Relaxed Fit T-Shirt",
             brand_price: 1259,
@@ -594,7 +594,7 @@ function HomePage() {
         {
             product_id: 8,
             brand_img: [
-                "http://localhost:3000/images/book4.jpg"
+                "./images/book4.jpg"
             ],
             brand_description: "Einstein | Book by Walter Isaacson",
             brand_price: 534,
@@ -603,7 +603,7 @@ function HomePage() {
             product_id: 1,
             brand_name: "Apple",
             brand_img: [
-                "http://localhost:3000/images/iphone.png"
+                "./images/iphone.png"
             ],
             brand_description: "Apple New AirPods Max Bluetooth Headset  (Sky Blue, On the Ear)",
             brand_price: 59900,
@@ -614,7 +614,7 @@ function HomePage() {
             product_id: 2,
             brand_name: "Sony",
             brand_img: [
-                "http://localhost:3000/images/camera.png"
+                "./images/camera.png"
             ],
             brand_description: "Sony - Alpha 7 IV Full-frame Mirrorless Interchangeable Lens Camera with SEL2870 Lens - Black",
             brand_price: 280000,
@@ -624,7 +624,7 @@ function HomePage() {
         {
             product_id: 2,
             brand_img: [
-                "http://localhost:3000/images/watch1.png"
+                "./images/watch1.png"
             ],
             brand_description: "Diamond Earrings In 18Kt Yellow Gold (10.686 gram) with Diamonds (0.6900 Ct)",
             brand_price: 168500,
@@ -633,7 +633,7 @@ function HomePage() {
             product_id: 3,
             brand_name: "Whirlpool",
             brand_img: [
-                "http://localhost:3000/images/washing.png"
+                "./images/washing.png"
             ],
             brand_description: "Xpert Care 7kg 5 Star Front-Load Washing Machine with Ozone Air Refresh Technology and In-Built Heater",
             brand_price: 36540,
@@ -644,7 +644,7 @@ function HomePage() {
             product_id: 4,
             brand_name: "Apple",
             brand_img: [
-                "http://localhost:3000/images/mac.png"
+                "./images/mac.png"
             ],
             brand_description: "13-inch MacBook Pro",
             brand_price: 114312,
@@ -655,7 +655,7 @@ function HomePage() {
             product_id: 5,
             brand_name: "Samsung",
             brand_img: [
-                "http://localhost:3000/images/tv.png"
+                "./images/tv.png"
             ],
             brand_description: "Samsung - 65 inch Class 9 Series LED 4K UHD Smart Tizen TV",
             brand_price: 120000,
@@ -667,7 +667,7 @@ function HomePage() {
             product_id: 6,
             brand_name: "Apple",
             brand_img: [
-                "http://localhost:3000/images/tablet.png"
+                "./images/tablet.png"
             ],
             brand_description: "Apple iPad Pro 11 (2020) WiFi 512 GB Silver Tablet",
             brand_price: 67000,
@@ -681,10 +681,10 @@ function HomePage() {
             product_id: 5,
             brand_name: "Puma",
             brand_img: [
-                "http://localhost:3000/mensTshirts/puma4999.png",
-                "http://localhost:3000/mensTshirts/puma49991.png",
-                "http://localhost:3000/mensTshirts/puma49992.png",
-                "http://localhost:3000/mensTshirts/puma49993.png"
+                "./mensTshirts/puma4999.png",
+                "./mensTshirts/puma49991.png",
+                "./mensTshirts/puma49992.png",
+                "./mensTshirts/puma49993.png"
             ],
             brand_description: "MMQ T7 Unisex Self-Striped Polo Collar Pure Cotton Outdoor T-shirt",
             brand_price: 4999,
@@ -696,7 +696,7 @@ function HomePage() {
             product_id: 5,
             brand_name: "Adidas",
             brand_img: [
-                "http://localhost:3000/images/shoes1.png"
+                "./images/shoes1.png"
             ],
             brand_description: "Men Woven Design Apexo Walking Shoes",
             brand_price: 2149,
@@ -708,7 +708,7 @@ function HomePage() {
             product_id: 5,
             brand_name: "Indo Era",
             brand_img: [
-                "http://localhost:3000/images/kurta1.png"
+                "./images/kurta1.png"
             ],
             brand_description: "Floral Embroidered Regular Kurta with Trousers & Dupatta",
             brand_price: 1699,
@@ -719,7 +719,7 @@ function HomePage() {
         {
             product_id: 3,
             brand_img: [
-                "http://localhost:3000/images/book3.jpg"
+                "./images/book3.jpg"
             ],
             brand_description: "Einstein | Book by Walter Isaacson",
             brand_price: 234,
@@ -728,7 +728,7 @@ function HomePage() {
             product_id: 5,
             brand_name: "Fogg",
             brand_img: [
-                "http://localhost:3000/images/perfume.png"
+                "./images/perfume.png"
             ],
             brand_description: "Women Scent I Am Queen Long-Lasting Eau De Parfum 100 ml",
             brand_price: 325,
@@ -738,7 +738,7 @@ function HomePage() {
             product_id: 5,
             brand_name: "Levis",
             brand_img: [
-                "http://localhost:3000/images/jackets1.png"
+                "./images/jackets1.png"
             ],
             brand_description: "Pure Cotton Spread Collar Solid Denim Jacket",
             brand_price: 3293,
@@ -779,13 +779,13 @@ function HomePage() {
     let category_data = [
         {
             category: 'Electronics',
-            image: '"http://localhost:3000/images/tablet.png',
+            image: '"./images/tablet.png',
             products: [
                 {
                     product_id: 1,
                     brand_name: "Apple",
                     brand_img: [
-                        "http://localhost:3000/images/iphone.png"
+                        "./images/iphone.png"
                     ],
                     brand_description: "Apple New AirPods Max Bluetooth Headset  (Sky Blue, On the Ear)",
                     brand_price: 59900,
@@ -796,7 +796,7 @@ function HomePage() {
                     product_id: 2,
                     brand_name: "Sony",
                     brand_img: [
-                        "http://localhost:3000/images/camera.png"
+                        "./images/camera.png"
                     ],
                     brand_description: "Sony - Alpha 7 IV Full-frame Mirrorless Interchangeable Lens Camera with SEL2870 Lens - Black",
                     brand_price: 280000,
@@ -807,7 +807,7 @@ function HomePage() {
                     product_id: 3,
                     brand_name: "Whirlpool",
                     brand_img: [
-                        "http://localhost:3000/images/washing.png"
+                        "./images/washing.png"
                     ],
                     brand_description: "Xpert Care 7kg 5 Star Front-Load Washing Machine with Ozone Air Refresh Technology and In-Built Heater",
                     brand_price: 36540,
@@ -818,7 +818,7 @@ function HomePage() {
                     product_id: 4,
                     brand_name: "Apple",
                     brand_img: [
-                        "http://localhost:3000/images/mac.png"
+                        "./images/mac.png"
                     ],
                     brand_description: "13-inch MacBook Pro",
                     brand_price: 114312,
@@ -829,7 +829,7 @@ function HomePage() {
                     product_id: 5,
                     brand_name: "Samsung",
                     brand_img: [
-                        "http://localhost:3000/images/tv.png"
+                        "./images/tv.png"
                     ],
                     brand_description: "Samsung - 65 inch Class 9 Series LED 4K UHD Smart Tizen TV",
                     brand_price: 120000,
@@ -840,7 +840,7 @@ function HomePage() {
                     product_id: 6,
                     brand_name: "Apple",
                     brand_img: [
-                        "http://localhost:3000/images/tablet.png"
+                        "./images/tablet.png"
                     ],
                     brand_description: "Apple iPad Pro 11 (2020) WiFi 512 GB Silver Tablet",
                     brand_price: 67000,
@@ -851,12 +851,12 @@ function HomePage() {
         },
         {
             category: 'Books',
-            image: '"http://localhost:3000/images/history-book.png',
+            image: '"./images/history-book.png',
             products: [
                 {
                     product_id: 1,
                     brand_img: [
-                        "http://localhost:3000/images/book1.jpg"
+                        "./images/book1.jpg"
                     ],
                     brand_description: "Einstein | Book by Walter Isaacson",
                     brand_price: 268,
@@ -864,7 +864,7 @@ function HomePage() {
                 {
                     product_id: 2,
                     brand_img: [
-                        "http://localhost:3000/images/book2.jpg"
+                        "./images/book2.jpg"
                     ],
                     brand_description: "Einstein | Book by Walter Isaacson",
                     brand_price: 456,
@@ -872,7 +872,7 @@ function HomePage() {
                 {
                     product_id: 3,
                     brand_img: [
-                        "http://localhost:3000/images/book3.jpg"
+                        "./images/book3.jpg"
                     ],
                     brand_description: "Einstein | Book by Walter Isaacson",
                     brand_price: 234,
@@ -880,7 +880,7 @@ function HomePage() {
                 {
                     product_id: 4,
                     brand_img: [
-                        "http://localhost:3000/images/book4.jpg"
+                        "./images/book4.jpg"
                     ],
                     brand_description: "Einstein | Book by Walter Isaacson",
                     brand_price: 534,
@@ -888,7 +888,7 @@ function HomePage() {
                 {
                     product_id: 5,
                     brand_img: [
-                        "http://localhost:3000/images/book5.jpg"
+                        "./images/book5.jpg"
                     ],
                     brand_description: "Einstein | Book by Walter Isaacson",
                     brand_price: 678,
@@ -896,7 +896,7 @@ function HomePage() {
                 {
                     product_id: 6,
                     brand_img: [
-                        "http://localhost:3000/images/book6.jpg"
+                        "./images/book6.jpg"
                     ],
                     brand_description: "Einstein | Book by Walter Isaacson",
                     brand_price: 235,
@@ -905,12 +905,12 @@ function HomePage() {
         },
         {
             category: 'Jewelry',
-            image: '"http://localhost:3000/images/diamond.png',
+            image: '"./images/diamond.png',
             products: [
                 {
                     product_id: 1,
                     brand_img: [
-                        "http://localhost:3000/images/gold1.png"
+                        "./images/gold1.png"
                     ],
                     brand_description: "Diamond Earrings In 18Kt Yellow Gold (10.686 gram)",
                     brand_price: 96000,
@@ -918,7 +918,7 @@ function HomePage() {
                 {
                     product_id: 2,
                     brand_img: [
-                        "http://localhost:3000/images/gold2.png"
+                        "./images/gold2.png"
                     ],
                     brand_description: "Diamond Earrings In 18Kt Yellow Gold (10.686 gram) with Diamonds (0.6900 Ct)",
                     brand_price: 148500,
@@ -926,7 +926,7 @@ function HomePage() {
                 {
                     product_id: 2,
                     brand_img: [
-                        "http://localhost:3000/images/gold3.png"
+                        "./images/gold3.png"
                     ],
                     brand_description: "Diamond Earrings In 18Kt Yellow Gold (10.686 gram) with Diamonds (0.6900 Ct)",
                     brand_price: 497000,
@@ -934,7 +934,7 @@ function HomePage() {
                 {
                     product_id: 2,
                     brand_img: [
-                        "http://localhost:3000/images/gold4.png"
+                        "./images/gold4.png"
                     ],
                     brand_description: "Diamond Earrings In 18Kt Yellow Gold (10.686 gram) with Diamonds (0.6900 Ct)",
                     brand_price: 258500,
@@ -942,7 +942,7 @@ function HomePage() {
                 {
                     product_id: 2,
                     brand_img: [
-                        "http://localhost:3000/images/gold5.png"
+                        "./images/gold5.png"
                     ],
                     brand_description: "Diamond Earrings In 18Kt Yellow Gold (10.686 gram) with Diamonds (0.6900 Ct)",
                     brand_price: 358500,
@@ -950,7 +950,7 @@ function HomePage() {
                 {
                     product_id: 2,
                     brand_img: [
-                        "http://localhost:3000/images/gold6.png"
+                        "./images/gold6.png"
                     ],
                     brand_description: "Diamond Earrings In 18Kt Yellow Gold (10.686 gram) with Diamonds (0.6900 Ct)",
                     brand_price: 168500,
@@ -959,17 +959,17 @@ function HomePage() {
         },
         {
             category: "Sports",
-            image: "http://localhost:3000/images/sports.png",
+            image: "./images/sports.png",
             products: []
         },
         {
             category: "Watches",
-            image: "http://localhost:3000/images/wrist-watch.png",
+            image: "./images/wrist-watch.png",
             products: [
                 {
                     product_id: 2,
                     brand_img: [
-                        "http://localhost:3000/images/watch1.png"
+                        "./images/watch1.png"
                     ],
                     brand_description: "Diamond Earrings In 18Kt Yellow Gold (10.686 gram) with Diamonds (0.6900 Ct)",
                     brand_price: 168500,
@@ -977,7 +977,7 @@ function HomePage() {
                 {
                     product_id: 2,
                     brand_img: [
-                        "http://localhost:3000/images/watch2.png"
+                        "./images/watch2.png"
                     ],
                     brand_description: "Diamond Earrings In 18Kt Yellow Gold (10.686 gram) with Diamonds (0.6900 Ct)",
                     brand_price: 168500,
@@ -986,32 +986,32 @@ function HomePage() {
         },
         {
             category: "Furniture",
-            image: "http://localhost:3000/images/sofa.png",
+            image: "./images/sofa.png",
             products: []
         },
         {
             category: "Games",
-            image: "http://localhost:3000/images/joystick.png",
+            image: "./images/joystick.png",
             products: []
         },
         {
             category: "Footware",
-            image: "http://localhost:3000/images/boots.png",
+            image: "./images/boots.png",
             products: []
         },
         {
             category: "Cosmetics",
-            image: "http://localhost:3000/images/cosmetics.png",
+            image: "./images/cosmetics.png",
             products: []
         },
         {
             category: "Fashion",
-            image: "http://localhost:3000/images/male-clothes.png",
+            image: "./images/male-clothes.png",
             products: []
         },
         {
             category: "Hardware",
-            image: "http://localhost:3000/images/cpu.png",
+            image: "./images/cpu.png",
             products: []
         }
     ]
@@ -1107,20 +1107,20 @@ function HomePage() {
                     <MdOutlineKeyboardArrowLeft style={{ backgroundColor: 'white', boxShadow: '0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)', width: '5vh', height: '100%', borderRadius: '100%' }} onClick={handleBrandLeft} />
                 </div>
                 <div ref={refBrand} style={{ scrollBehavior: 'smooth', display: 'flex', flexWrap: 'nowrap', justifyContent: 'space-between', maxWidth: '100%', overflowX: 'hidden', gap: '1.6%' }}>
-                    <SquareCard brand="http://localhost:3000/images/levis.jpg" image=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDkO53QaPLJQurJXctCzpSpTYUx4-95iokw&usqp=CAU" />
-                    <SquareCard brand="http://localhost:3000/images/Hm.jpg" image="http://localhost:3000/images/H_m.png" />
-                    <SquareCard brand="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tommy_Hilfiger_Logo.png/2560px-Tommy_Hilfiger_Logo.png" image="http://localhost:3000/images/tommy_hilfiger.png" />
-                    <SquareCard brand="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zara_Logo.svg/2560px-Zara_Logo.svg.png" image="http://localhost:3000/images/zara.png" />
-                    <SquareCard brand="https://www.marketing91.com/wp-content/uploads/2019/05/SWOT-Analysis-of-Peter-England-1.jpg" image="http://localhost:3000/images/peter_england.png" />
-                    <SquareCard brand="https://cdn.worldvectorlogo.com/logos/puma-logo.svg" image="http://localhost:3000/images/puma.png" />
-                    <SquareCard brand="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png" image="http://localhost:3000/images/adidas.png" />
-                    <SquareCard brand="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/2020-08/WROGN.jpg" image="http://localhost:3000/images/wrogan.png" />
-                    <SquareCard brand="https://logos-world.net/wp-content/uploads/2023/01/U.S.-Polo-Assn-Logo.png" image="http://localhost:3000/images/polo.png" />
-                    <SquareCard brand="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jack_%26_Jones_logo.svg/2560px-Jack_%26_Jones_logo.svg.png" image="http://localhost:3000/images/jack_jones.png" />
-                    <SquareCard brand="https://dtbtob4osa700.cloudfront.net/BrandsImages/09122021141508482_brlo.png" image="http://localhost:3000/images/roadstar.png" />
-                    <SquareCard brand="https://1000logos.net/wp-content/uploads/2020/08/Jockey-Logo-1962.png" image="http://localhost:3000/images/jockey.png" />
-                    <SquareCard brand="https://1000logos.net/wp-content/uploads/2020/05/BlackBerry-logo.jpg" image="http://localhost:3000/images/blackberry.png" />
-                    <SquareCard brand="https://pngimg.com/d/gucci_PNG17.png" image="http://localhost:3000/images/gucci.png" />
+                    <SquareCard brand="./images/levis.jpg" image=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDkO53QaPLJQurJXctCzpSpTYUx4-95iokw&usqp=CAU" />
+                    <SquareCard brand="./images/Hm.jpg" image="./images/H_m.png" />
+                    <SquareCard brand="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tommy_Hilfiger_Logo.png/2560px-Tommy_Hilfiger_Logo.png" image="./images/tommy_hilfiger.png" />
+                    <SquareCard brand="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zara_Logo.svg/2560px-Zara_Logo.svg.png" image="./images/zara.png" />
+                    <SquareCard brand="https://www.marketing91.com/wp-content/uploads/2019/05/SWOT-Analysis-of-Peter-England-1.jpg" image="./images/peter_england.png" />
+                    <SquareCard brand="https://cdn.worldvectorlogo.com/logos/puma-logo.svg" image="./images/puma.png" />
+                    <SquareCard brand="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png" image="./images/adidas.png" />
+                    <SquareCard brand="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/2020-08/WROGN.jpg" image="./images/wrogan.png" />
+                    <SquareCard brand="https://logos-world.net/wp-content/uploads/2023/01/U.S.-Polo-Assn-Logo.png" image="./images/polo.png" />
+                    <SquareCard brand="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jack_%26_Jones_logo.svg/2560px-Jack_%26_Jones_logo.svg.png" image="./images/jack_jones.png" />
+                    <SquareCard brand="https://dtbtob4osa700.cloudfront.net/BrandsImages/09122021141508482_brlo.png" image="./images/roadstar.png" />
+                    <SquareCard brand="https://1000logos.net/wp-content/uploads/2020/08/Jockey-Logo-1962.png" image="./images/jockey.png" />
+                    <SquareCard brand="https://1000logos.net/wp-content/uploads/2020/05/BlackBerry-logo.jpg" image="./images/blackberry.png" />
+                    <SquareCard brand="https://pngimg.com/d/gucci_PNG17.png" image="./images/gucci.png" />
 
                 </div>
                 <div style={{ position: 'absolute', top: '40%', right: '-20px' }}>

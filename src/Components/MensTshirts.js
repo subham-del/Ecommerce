@@ -11,10 +11,10 @@ function MensTshirts() {
             product_id: 1,
             brand_name: "Tommy hilfiger",
             brand_img: [
-                "http://localhost:3000/mensTshirts/tommy1439.png",
-                "http://localhost:3000/mensTshirts/tommy14391.png",
-                "http://localhost:3000/mensTshirts/tommy14392.png",
-                "http://localhost:3000/mensTshirts/tommy14393.png"
+                "./mensTshirts/tommy1439.png",
+                "./mensTshirts/tommy14391.png",
+                "./mensTshirts/tommy14392.png",
+                "./mensTshirts/tommy14393.png"
                 ],
             brand_description: "Men Brand Logo Printed Pure Cotton T-shirt",
             brand_price: 1439,
@@ -27,10 +27,10 @@ function MensTshirts() {
             product_id: 2,
             brand_name: "Puma",
             brand_img: [
-                "http://localhost:3000/mensTshirts/puma1259.png",
-                "http://localhost:3000/mensTshirts/puma12591.png",
-                "http://localhost:3000/mensTshirts/puma12592.png",
-                "http://localhost:3000/mensTshirts/puma12593.png"
+                "./mensTshirts/puma1259.png",
+                "./mensTshirts/puma12591.png",
+                "./mensTshirts/puma12592.png",
+                "./mensTshirts/puma12593.png"
                 ],
             brand_description: "Brand Logo Printed Relaxed Fit T-Shirt",
             brand_price: 1259,
@@ -42,10 +42,10 @@ function MensTshirts() {
             product_id: 3,
             brand_name: "Levis",
             brand_img: [
-                "http://localhost:3000/mensTshirts/levis1199.png",
-                "http://localhost:3000/mensTshirts/levis11991.png",
-                "http://localhost:3000/mensTshirts/levis11992.png",
-                "http://localhost:3000/mensTshirts/levis11993.png"
+                "./mensTshirts/levis1199.png",
+                "./mensTshirts/levis11991.png",
+                "./mensTshirts/levis11992.png",
+                "./mensTshirts/levis11993.png"
                 ],
             brand_description: "Brand Logo Printed Pure Cotton T-shirt",
             brand_price: 1199,
@@ -70,10 +70,10 @@ function MensTshirts() {
             product_id: 5,
             brand_name: "Puma",
             brand_img: [
-                    "http://localhost:3000/mensTshirts/puma4999.png",
-                    "http://localhost:3000/mensTshirts/puma49991.png",
-                    "http://localhost:3000/mensTshirts/puma49992.png",
-                    "http://localhost:3000/mensTshirts/puma49993.png"
+                    "./mensTshirts/puma4999.png",
+                    "./mensTshirts/puma49991.png",
+                    "./mensTshirts/puma49992.png",
+                    "./mensTshirts/puma49993.png"
                 ],
             brand_description: "MMQ T7 Unisex Self-Striped Polo Collar Pure Cotton Outdoor T-shirt",
             brand_price: 4999,
@@ -116,10 +116,10 @@ function MensTshirts() {
             product_id: 8,
             brand_name: "Tommy hilfiger",
             brand_img: [
-                "http://localhost:3000/mensTshirts/tommy1799.png",
-                "http://localhost:3000/mensTshirts/tommy17991.png",
-                "http://localhost:3000/mensTshirts/tommy17992.png",
-                "http://localhost:3000/mensTshirts/tommy17993.png"
+                "./mensTshirts/tommy1799.png",
+                "./mensTshirts/tommy17991.png",
+                "./mensTshirts/tommy17992.png",
+                "./mensTshirts/tommy17993.png"
                ],
             brand_description: "HILFIGER STRIPE T-SHIRT",
             brand_price: 1799,
@@ -132,10 +132,10 @@ function MensTshirts() {
             product_id: 9,
             brand_name: "Tommy hilfiger",
             brand_img: [
-                "http://localhost:3000/mensTshirts/tommy1600.png",
-                "http://localhost:3000/mensTshirts/tommy16001.png",
-                "http://localhost:3000/mensTshirts/tommy16002.png",
-                "http://localhost:3000/mensTshirts/tommy16003.png"
+                "./mensTshirts/tommy1600.png",
+                "./mensTshirts/tommy16001.png",
+                "./mensTshirts/tommy16002.png",
+                "./mensTshirts/tommy16003.png"
                 ],
             brand_description: "Men Yellow Brand Logo Striped T-shirt",
             brand_price: 1600,
@@ -147,10 +147,10 @@ function MensTshirts() {
             product_id: 10,
             brand_name: "Puma",
             brand_img: [
-                "http://localhost:3000/mensTshirts/puma1349.png",
-                "http://localhost:3000/mensTshirts/puma13491.png",
-                "http://localhost:3000/mensTshirts/puma13492.png",
-                "http://localhost:3000/mensTshirts/puma13493.png"
+                "./mensTshirts/puma1349.png",
+                "./mensTshirts/puma13491.png",
+                "./mensTshirts/puma13492.png",
+                "./mensTshirts/puma13493.png"
               ],
             brand_description: "Power Colourblocked Drop-Shoulder Sleeves Relaxed Fit Pure Cotton T-shirt",
             brand_price: 1349,
