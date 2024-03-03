@@ -91,7 +91,7 @@ function LoginPg() {
             })
             console.log(user,isLogin);
             
-            await fetch('http://127.0.0.1:8000/login', {
+            await fetch('./login', {
                 method: 'POST',
                 headers: {
                     'Accept': 'text/plain',
