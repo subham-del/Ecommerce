@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import HomePage from "./Components/HomePage.js"
 import Navbar from './Components/Navbar.js';
 import React, { useEffect } from 'react';
 import ModalComponent from './Components/Modal.js'
@@ -12,6 +11,12 @@ import Loading from './Components/Loading.js';
 import Profile from './Components/profile.js';
 import WishList from './Components/WishList.js';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Loading from './Components/Loading.js';
+const HomePage = lazy(() => {
+  return new Promise(resolve => {
+    setTimeout(() => resolve(import("./Components/HomePage.js")), 1000);
+  });
+});
 
 let cartContext = React.createContext()
 let loginContext = React.createContext()
@@ -67,26 +72,26 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <div>
-
-          <loginContext.Provider value={[isLogIn, setLogin, user, setUser]}>
-            <cartContext.Provider value={[cartCount, open, setOpen, setCartCount, updateItemsArray, isCountVisible, setCountVisible, cartItems, totalPrice, setTotalPrice, deleteCartItems]}>
-              <wishlistContext.Provider value={[wishCountVisible, setWishCountVisible, wishlistCount, setWishlistCount, wishlistItems, setWishlistItems, updateWishlistArray, wishlistModal, setWishlistModal]}>
-                <MayBeNavBar>
-                  <Navbar />
-                </MayBeNavBar>
-                <ModalComponent />
-                <WishList />
-                <Routes>
-                  <Route exact path='/login' Component={Loginpg} />
-                  <Route exact path='/profile' Component={Profile} />
-                  <Route path='/' Component={HomePage} />
-                  <Route exact path='/mens/tshirts' Component={MensTshirts} />
-                  <Route exact path='/product-desc' Component={ProductDesc} />
-                </Routes>
-              </wishlistContext.Provider>
-            </cartContext.Provider>
-          </loginContext.Provider>
-
+          <Suspense fallback={<Loading />}>
+            <loginContext.Provider value={[isLogIn, setLogin, user, setUser]}>
+              <cartContext.Provider value={[cartCount, open, setOpen, setCartCount, updateItemsArray, isCountVisible, setCountVisible, cartItems, totalPrice, setTotalPrice, deleteCartItems]}>
+                <wishlistContext.Provider value={[wishCountVisible, setWishCountVisible, wishlistCount, setWishlistCount, wishlistItems, setWishlistItems, updateWishlistArray, wishlistModal, setWishlistModal]}>
+                  <MayBeNavBar>
+                    <Navbar />
+                  </MayBeNavBar>
+                  <ModalComponent />
+                  <WishList />
+                  <Routes>
+                    <Route exact path='/login' Component={Loginpg} />
+                    <Route exact path='/profile' Component={Profile} />
+                    <Route path='/' Component={HomePage} />
+                    <Route exact path='/mens/tshirts' Component={MensTshirts} />
+                    <Route exact path='/product-desc' Component={ProductDesc} />
+                  </Routes>
+                </wishlistContext.Provider>
+              </cartContext.Provider>
+            </loginContext.Provider>
+          </Suspense>
         </div>
       </BrowserRouter>
     </div>
