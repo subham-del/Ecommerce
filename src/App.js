@@ -11,7 +11,6 @@ import Loading from './Components/Loading.js';
 import Profile from './Components/profile.js';
 import WishList from './Components/WishList.js';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Loading from './Components/Loading.js';
 const HomePage = lazy(() => {
   return new Promise(resolve => {
     setTimeout(() => resolve(import("./Components/HomePage.js")), 1000);
