@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Navbar from './Components/Navbar.js';
-import React, { useEffect } from 'react';
+import React, { useEffect,lazy,Suspense } from 'react';
 import ModalComponent from './Components/Modal.js'
 import Loginpg from './Components/Login.js'
 import MensTshirts from './Components/MensTshirts.js'
@@ -9,7 +9,7 @@ import ProductDesc from './Components/ProductDesc.js'
 import MayBeNavBar from './Components/MayBeNavBar.js';
 import Loading from './Components/Loading.js';
 import Profile from './Components/profile.js';
-import WishList from './Components/WishList.js';
+import WishList from './Components/WishList.j`s';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 const HomePage = lazy(() => {
   return new Promise(resolve => {
