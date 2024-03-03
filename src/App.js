@@ -9,7 +9,7 @@ import ProductDesc from './Components/ProductDesc.js'
 import MayBeNavBar from './Components/MayBeNavBar.js';
 import Loading from './Components/Loading.js';
 import Profile from './Components/profile.js';
-import WishList from './Components/WishList.j`s';
+import WishList from './Components/WishList.js';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 const HomePage = lazy(() => {
   return new Promise(resolve => {
